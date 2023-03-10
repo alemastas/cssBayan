@@ -1,3 +1,33 @@
 * {
     margin: 0rem;
 }
+
+.main{
+    background-color: aliceblue;
+}
+
+.container {
+    width: 30rem;
+    height: 100cqb;
+    margin: 0 auto;
+    background-color: rgb(206, 223, 217);
+}
+
+.text-container{
+    margin: 0 auto;
+    padding-top: 10%;
+}
+
+.h1{
+    text-align: center;
+}
+
+.mem_container{
+    width: 30rem;
+    padding: 3%;
+}
+
+.img_container{
+    margin: 0 auto;
+    padding: 3% 0 3% 0;
+}
